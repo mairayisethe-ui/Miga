@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mairayisethe-ui.github.io/Miga/sitemap.xml
